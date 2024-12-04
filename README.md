@@ -1,3 +1,6 @@
+> [!TIP]
+> For user manual in English, click [here](https://github.com/MashiroSakurasou/EN_DiscordBotUserManual).
+> 
 # Discord机器人 荻原沙优 用户指南 🌟
 
 欢迎使用荻原沙优，一个功能丰富且高度可定制的 **音乐和管理 Discord 机器人**。以下是完整的使用指南！
