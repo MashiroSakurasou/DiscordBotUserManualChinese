@@ -32,21 +32,22 @@
 > - **连接问题**：确保机器人已正确加入语音频道，且您的服务器权限允许机器人播放音频，否则命令可能无法正常工作。  
 > - **版权问题**：请确保播放的内容符合相关版权法规，以避免潜在的侵权行为。
 
-## 🎨 可定制化功能
+## 🎨 功能与客制化
 
-**机器人支持多种可定制化功能，满足您个性化的需求**
+/info 是在每个服务器中都可以使用的默认功能**
 
-**如有需要请加入我们的 [官方 Discord 服务器](https://discord.gg/67vMVwTNuG)并联系椎名ましろ（shiina.mashiro.）沟通定制需求**
+<img src="InfoExample.png" alt="Customizable Features" width="400">  
 
-1. **欢迎消息**
-2. ![Customizable Features](.WelcomeExample)
 
-3. **主题样式**  
-   您可以选择自定义机器人外观（如主题颜色、字体等），通过后台管理界面轻松调整。
+除此之外，机器人支持多种可定制化功能，满足您个性化的需求
 
-  
-_上图展示了机器人支持的多种可定制化功能示例。_
+如有需要请加入我们的 [官方 Discord 服务器](https://discord.gg/67vMVwTNuG)并联系椎名ましろ（shiina.mashiro.）沟通定制需求
 
+以下是一些示例
+
+ 1. 欢迎消息 2.服务器规则 3.服务器规则4.成员记录
+    
+<img src="WelcomeExample.png" alt="Customizable Features" width="400"> <img src="InfoExample.png" alt="Customizable Features" width="400"><img src="RuleExample.png" alt="Customizable Features" width="400">  <img src="LogExample.png" alt="Customizable Features" width="395">
 
 ## 💬 **反馈与建议**
 我们非常欢迎您的反馈和建议！  
