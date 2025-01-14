@@ -34,7 +34,7 @@
 
 ## 🎨 功能与客制化
 
-/info 是在每个服务器中都可以使用的默认功能**
+/info 是在每个服务器中都可以使用的默认功能
 
 <img src="InfoExample.png" alt="Customizable Features" width="400">  
 
