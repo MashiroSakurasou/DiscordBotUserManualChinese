@@ -47,7 +47,7 @@
 
  1. 欢迎消息  2.点歌界面 3.服务器规则 4.成员记录
     
-<img src="WelcomeExample.png" alt="Customizable Features"  height = "400" width="400"> <img src="SongInfo.png" alt="Customizable Features"  height = "400" width="400"><img src="RuleExample.png" alt="Customizable Features" height = "400" width="400">    <img src="LogExample.png" alt="Customizable Features"  height = "400" width="400">
+<img src="WelcomeExample.png" alt="Customizable Features"  height = "400" width="400"> <img src="MusicExample.png" alt="Customizable Features"  height = "400" width="400"><img src="RuleExample.png" alt="Customizable Features" height = "400" width="400">    <img src="LogExample.png" alt="Customizable Features"  height = "400" width="400">
 
 ## 💬 **反馈与建议**
 我们非常欢迎您的反馈和建议！  
