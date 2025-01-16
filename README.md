@@ -1,5 +1,5 @@
 > [!TIP]
-> For user manual in English, click [here](https://github.com/MashiroSakurasou/EN_DiscordBotUserManual).
+> For user manual in English, click [here](https://github.com/MashiroSakurasou/EN_DiscordBotUserManual). 
 > 
 # Discord机器人 荻原沙优 用户指南 🌟
 
